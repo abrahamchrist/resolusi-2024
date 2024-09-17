@@ -1,0 +1,6 @@
+Resolusi 2024
+- Menjadi Front End Developer
+- Menguasai HTML & CSS
+- Menguasai Javascript
+- Menguasai React
+- Menguasai NextJS
