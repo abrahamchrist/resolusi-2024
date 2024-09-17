@@ -4,3 +4,4 @@ Resolusi 2024
 - Menguasai Javascript
 - Menguasai React
 - Menguasai NextJS
+- Memperbaiki GitHub
